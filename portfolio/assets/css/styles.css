@@ -60,7 +60,7 @@ a.btn:focus {
 }
 a.btn-cta-primary,
 .btn-cta-primary {
-  background: #111111;
+  background: #0c0c0c;
   border: 1px solid #000000;
   color: #fff;
   font-weight: 600;
@@ -68,7 +68,7 @@ a.btn-cta-primary,
 }
 a.btn-cta-primary:hover,
 .btn-cta-primary:hover {
-  background: #0c0c0c;
+  background: #111111;
   border: 1px solid #000000;
   color: #fff;
 }
