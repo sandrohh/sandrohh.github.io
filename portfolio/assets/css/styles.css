@@ -61,14 +61,14 @@ a.btn:focus {
 a.btn-cta-primary,
 .btn-cta-primary {
   background: #111111;
-  border: 1px solid #54ba4e;
+  border: 1px solid #000000;
   color: #fff;
   font-weight: 600;
   text-transform: uppercase;
 }
 a.btn-cta-primary:hover,
 .btn-cta-primary:hover {
-  background: #222322;
+  background: #424442;
   border: 1px solid #49ac43;
   color: #fff;
 }
