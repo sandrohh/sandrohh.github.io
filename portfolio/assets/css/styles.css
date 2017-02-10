@@ -69,7 +69,7 @@ a.btn-cta-primary,
 a.btn-cta-primary:hover,
 .btn-cta-primary:hover {
   background: #424442;
-  border: 1px solid #49ac43;
+  border: 1px solid #000000;
   color: #fff;
 }
 a.btn-cta-secondary,
