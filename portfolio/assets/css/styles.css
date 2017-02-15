@@ -82,13 +82,13 @@ iframe {
   margin-right: 30px;
 }
 .header .profile-content .name {
-  color: #ffffff;
+  color: #141414;
   font-size: 38px;
   margin-bottom: 5px;
   margin-top: 18px;
 }
 .header .profile-content .desc {
-  color: #ffffff;
+  color: #141414;
   font-family: "Lato", arial, sans-serif;
   font-weight: 400;
   font-size: 24px;
@@ -96,7 +96,7 @@ iframe {
   margin-bottom: 5px;
 }
 .header .profile-content .social a {
-  background: #b0b7bf;
+  background: #141414;
   width: 36px;
   height: 36px;
   display: inline-block;
