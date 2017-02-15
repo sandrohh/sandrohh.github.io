@@ -51,8 +51,8 @@ a:focus {
   font-size: 12px;
 }
 a.dotted-link {
-  border-bottom: 1px dotted #778492;
-  color: #778492;
+  border-bottom: 1px dotted #fff;
+  color: #fff;
 }
 a.dotted-link:hover {
   text-decoration: none;
