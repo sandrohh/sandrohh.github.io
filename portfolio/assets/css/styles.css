@@ -368,13 +368,13 @@ iframe {
   color: #ffffff;
 }
 .languages .item .level {
-  color: #ffd700;
+  color: #ffffff;
 }
 .languages .item:last-child {
   margin-bottom: 0;
 }
 .languages .item .fa {
-  color: #ffffff;
+  color: #ffd700;
 }
 /* Blog Section */
 .blog .item {
