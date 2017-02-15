@@ -223,7 +223,7 @@ iframe {
   position: absolute;
   bottom: -5px;
   border-top: 5px solid #ffffff;
-  border-left: 5px solid transparent;
+  border-left: 5px solid #ffffff;
   border-right: 5px solid transparent;
 }
 .latest .featured-image .ribbon .text:before {
